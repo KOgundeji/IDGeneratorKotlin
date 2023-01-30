@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ID Generator (Kotlin)</string>
+    <string name="headline">Generate Unique IDs</string>
+    <string name="maximum">Maximum is 2.14 billion</string>
+    <string name="ids_needed"># of ids needed</string>
+    <string name="characters_per_id"># of characters per ID</string>
+    <string name="document_name">Name of generated document</string>
+    <string name="numbers_req">ID characters should have numbers</string>
+    <string name="lowercase_req">ID characters should have lowercase letters</string>
+    <string name="uppercase_req">ID characters should have uppercase letters</string>
+    <string name="enter_email_info">Enter Email Info</string>
+    <string name="send_ids">Send IDs</string>
+    <string name="recipient_email_address">Recipient Email address</string>
+    <string name="subject">Subject</string>
+    <string name="note">Note</string>
+</resources>
